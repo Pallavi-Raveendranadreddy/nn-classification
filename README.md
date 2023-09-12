@@ -42,8 +42,8 @@ STEP 11:Using the DL model predict for some random inputs
 
 ## PROGRAM
 ```
-Developed by: V A Jithendra
-Reg no:212221230043
+Developed by: Valasareddy Pallavi
+Reg no:212221240059
 ```
 ```
 import pandas as pd
